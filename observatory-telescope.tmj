@@ -15671,7 +15671,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "observatory-telescope-chunk-1-f4fd1656.png",
+      "image": "observatory-telescope-chunk-1-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15827,7 +15827,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "observatory-telescope-chunk-2-f4fd1656.png",
+      "image": "observatory-telescope-chunk-2-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15842,7 +15842,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "observatory-telescope-chunk-3-f4fd1656.png",
+      "image": "observatory-telescope-chunk-3-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15857,7 +15857,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "observatory-telescope-chunk-4-f4fd1656.png",
+      "image": "observatory-telescope-chunk-4-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15872,7 +15872,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "observatory-telescope-chunk-5-f4fd1656.png",
+      "image": "observatory-telescope-chunk-5-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15887,7 +15887,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "observatory-telescope-chunk-6-f4fd1656.png",
+      "image": "observatory-telescope-chunk-6-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15902,7 +15902,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "observatory-telescope-chunk-7-f4fd1656.png",
+      "image": "observatory-telescope-chunk-7-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15917,7 +15917,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "observatory-telescope-chunk-8-f4fd1656.png",
+      "image": "observatory-telescope-chunk-8-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15932,7 +15932,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "observatory-telescope-chunk-9-f4fd1656.png",
+      "image": "observatory-telescope-chunk-9-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15947,7 +15947,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "observatory-telescope-chunk-10-f4fd1656.png",
+      "image": "observatory-telescope-chunk-10-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15962,7 +15962,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "observatory-telescope-chunk-11-f4fd1656.png",
+      "image": "observatory-telescope-chunk-11-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15977,7 +15977,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "observatory-telescope-chunk-12-f4fd1656.png",
+      "image": "observatory-telescope-chunk-12-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15992,7 +15992,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "observatory-telescope-chunk-13-f4fd1656.png",
+      "image": "observatory-telescope-chunk-13-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16007,7 +16007,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "observatory-telescope-chunk-14-f4fd1656.png",
+      "image": "observatory-telescope-chunk-14-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16022,7 +16022,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "observatory-telescope-chunk-15-f4fd1656.png",
+      "image": "observatory-telescope-chunk-15-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16037,7 +16037,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "observatory-telescope-chunk-16-f4fd1656.png",
+      "image": "observatory-telescope-chunk-16-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16052,7 +16052,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "observatory-telescope-chunk-17-f4fd1656.png",
+      "image": "observatory-telescope-chunk-17-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16067,7 +16067,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "observatory-telescope-chunk-18-f4fd1656.png",
+      "image": "observatory-telescope-chunk-18-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16082,7 +16082,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "observatory-telescope-chunk-19-f4fd1656.png",
+      "image": "observatory-telescope-chunk-19-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16097,7 +16097,7 @@
     {
       "columns": 16,
       "firstgid": 4865,
-      "image": "observatory-telescope-chunk-20-f4fd1656.png",
+      "image": "observatory-telescope-chunk-20-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16112,7 +16112,7 @@
     {
       "columns": 16,
       "firstgid": 5121,
-      "image": "observatory-telescope-chunk-21-f4fd1656.png",
+      "image": "observatory-telescope-chunk-21-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16127,7 +16127,7 @@
     {
       "columns": 16,
       "firstgid": 5377,
-      "image": "observatory-telescope-chunk-22-f4fd1656.png",
+      "image": "observatory-telescope-chunk-22-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16142,7 +16142,7 @@
     {
       "columns": 16,
       "firstgid": 5633,
-      "image": "observatory-telescope-chunk-23-f4fd1656.png",
+      "image": "observatory-telescope-chunk-23-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16157,7 +16157,7 @@
     {
       "columns": 16,
       "firstgid": 5889,
-      "image": "observatory-telescope-chunk-24-f4fd1656.png",
+      "image": "observatory-telescope-chunk-24-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16172,7 +16172,7 @@
     {
       "columns": 16,
       "firstgid": 6145,
-      "image": "observatory-telescope-chunk-25-f4fd1656.png",
+      "image": "observatory-telescope-chunk-25-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16187,7 +16187,7 @@
     {
       "columns": 16,
       "firstgid": 6401,
-      "image": "observatory-telescope-chunk-26-f4fd1656.png",
+      "image": "observatory-telescope-chunk-26-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16202,7 +16202,7 @@
     {
       "columns": 16,
       "firstgid": 6657,
-      "image": "observatory-telescope-chunk-27-f4fd1656.png",
+      "image": "observatory-telescope-chunk-27-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16217,7 +16217,7 @@
     {
       "columns": 16,
       "firstgid": 6913,
-      "image": "observatory-telescope-chunk-28-f4fd1656.png",
+      "image": "observatory-telescope-chunk-28-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16232,7 +16232,7 @@
     {
       "columns": 16,
       "firstgid": 7169,
-      "image": "observatory-telescope-chunk-29-f4fd1656.png",
+      "image": "observatory-telescope-chunk-29-d2cd0cd9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16247,7 +16247,7 @@
     {
       "columns": 13,
       "firstgid": 7425,
-      "image": "observatory-telescope-chunk-30-f4fd1656.png",
+      "image": "observatory-telescope-chunk-30-d2cd0cd9.png",
       "imageheight": 416,
       "imagewidth": 416,
       "margin": 0,
@@ -16276,7 +16276,7 @@
     {
       "name": "mapDescription",
       "type": "string",
-      "value": "Observatory Telescope is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
+      "value": "Observatory Telescope is the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads Design LLC. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
     },
     {
       "name": "mapImage",
@@ -16286,7 +16286,7 @@
     {
       "name": "mapName",
       "type": "string",
-      "value": "Laws of the Universe - Observatory Telescope"
+      "value": "Observatory Telescope"
     },
     {
       "name": "tilesetCopyright",
