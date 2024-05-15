@@ -1,6 +1,6 @@
 # 100 Roads Design
 
-![100 Roads Design logo](100roadsdesign-logo.svg)
+![100 Roads Design logo](readme/100roadsdesign-logo.svg)
 
 100 Roads has been designing and innovating in the education space since 2016. Our founder, Catherine Fraise, first designed a physical campus at Workspace Education in Bethel CT.
 
@@ -14,21 +14,21 @@ Learn more about us at https://100roadsdesign.com.
 
 There are seven virtual campuses in this repository.
 
-![map](pil-readme.png)
+![map](readme/pil-readme.png)
 
 This is the main virtual campus, called Past Innovation Lab.
 
-![map](readme-1.png)
+![map](readme/readme-1.png)
 
 On the left: Portable Innovation Lab.
 On the right: Home Base.
 
-![map](readme-2.png)
+![map](readme/readme-2.png)
 
 On the left: Cori Lab.
 On the right: Honda.
 
-![map](readme-3.png)
+![map](readme/readme-3.png)
 
 On the left: Playground.
 On the right: Observatory telescope.
