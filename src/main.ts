@@ -11,7 +11,7 @@ WA.onInit().then(() => {
 
   const mapUrl = WA.room.mapURL
   const root = mapUrl.substring(0, mapUrl.lastIndexOf("/"))
-  let currentMapName = "campus"
+
   
 
     // Julia custom
@@ -87,7 +87,7 @@ WA.ui.actionBar.addButton({
     bootstrapExtra().then(() => {
       console.log('Scripting API Extra ready');
       // Update current map name
-      currentMapName = WA.state.loadVariable('mapName') as string;
+    
   }).catch(e => console.error(e));
 
 }).catch(e => console.error(e));

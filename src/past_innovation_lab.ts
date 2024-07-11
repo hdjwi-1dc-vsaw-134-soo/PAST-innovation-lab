@@ -5,9 +5,6 @@ import { EmbeddedWebsite } from "@workadventure/iframe-api-typings";
 
 //console.log('Script started successfully');
 
-let currentPopup: any = undefined;
-
-
 // Waiting for the API to be ready
 WA.onInit().then( async() => {
     console.log('Scripting API ready');
@@ -20,7 +17,7 @@ WA.onInit().then( async() => {
 
     const mapUrl = WA.room.mapURL
     const root = mapUrl.substring(0, mapUrl.lastIndexOf("/"))
-    let currentMapName = "campus"
+  
     // Julia custom
 
     // dron animation
@@ -110,7 +107,7 @@ WA.ui.actionBar.addButton({
     bootstrapExtra().then(() => {
       console.log('Scripting API Extra ready');
       // Update current map name
-      currentMapName = WA.state.loadVariable('mapName') as string;
+    
   }).catch(e => console.error(e));
 
 }).catch(e => console.error(e));
